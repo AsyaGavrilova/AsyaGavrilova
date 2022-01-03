@@ -1,5 +1,20 @@
 ### Hi there 👋
 
+### About me
+
+- 🐞 Tester
+- 💜 
+
+### Skills 🤩
+
+- HTML/CSS
+- MySQL
+
+### Contacts 📲
+- E-mail: [agavrilova0303@gmail.com](mailto:agavrilova0303@gmail.com)
+- Linkedin: [Anastasiya Gavrilova](https://www.linkedin.com/in/anastasiya-gavrilova)
+- Instagram: [asya_gavrilova](https://www.instagram.com/asya_gavrilova)
+
 <!--
 **AsyaGavrilova/AsyaGavrilova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
