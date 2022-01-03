@@ -8,7 +8,7 @@
 ### Skills 🤩
 
 - HTML/CSS
-- MySQL
+- SQL basics
 
 ### Contacts 📲
 - E-mail: [agavrilova0303@gmail.com](mailto:agavrilova0303@gmail.com)
