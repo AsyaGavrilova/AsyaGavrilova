@@ -3,12 +3,12 @@
 ### About me
 
 - 🐞 Tester
-- 💜 
 
 ### Skills 🤩
 
 - HTML/CSS
 - SQL basics
+- API-testing (Postman, SoupUI)
 
 ### Contacts 📲
 - E-mail: [agavrilova0303@gmail.com](mailto:agavrilova0303@gmail.com)
