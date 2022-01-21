@@ -11,6 +11,7 @@
 - API-testing (Postman, SoupUI)
 
 ### Contacts 📲
+- Telegram: [Asya Gavrilova](https://t.me/Asya_Gavrilova)
 - E-mail: [agavrilova0303@gmail.com](mailto:agavrilova0303@gmail.com)
 - Linkedin: [Anastasiya Gavrilova](https://www.linkedin.com/in/anastasiya-gavrilova)
 - Instagram: [asya_gavrilova](https://www.instagram.com/asya_gavrilova)
