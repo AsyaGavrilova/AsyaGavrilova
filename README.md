@@ -2,7 +2,7 @@
 
 ### About me
 
-- 🐞 Tester
+- 🐞 QA Engineer
 
 ### Skills 🤩
 
